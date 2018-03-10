@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3596c14-456c-4b36-8946-00c9f4c57ccf" name="Default" comment="" />
+    <list default="true" id="a3596c14-456c-4b36-8946-00c9f4c57ccf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Visualization and Clustering -checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Visualization and Clustering -checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Visualization and Clustering .ipynb" afterPath="$PROJECT_DIR$/Visualization and Clustering .ipynb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
