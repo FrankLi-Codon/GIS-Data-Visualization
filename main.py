@@ -37,3 +37,5 @@ def overlay_map(base_gdf, overlay_gdf, bc, oc, **graph_param):
     ax.get_legend().set_bbox_to_anchor((1, 0.2))
     ax.set_xlim([-130, -60])
     ax.set_ylim([23, 52])
+
+    return fig
